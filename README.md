@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hannesj-mcp-openapi-schema-badge.png)](https://mseep.ai/app/hannesj-mcp-openapi-schema)
+
 # OpenAPI Schema Model Context Protocol Server
 
 A Model Context Protocol (MCP) server that exposes OpenAPI schema information to Large Language Models (LLMs) like Claude. This server allows an LLM to explore and understand OpenAPI specifications through a set of specialized tools.
